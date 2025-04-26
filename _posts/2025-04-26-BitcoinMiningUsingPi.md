@@ -214,7 +214,7 @@ Now you have successfully started mining Monero **CONGRATULATIONS !!**
 while mining press H to view your CPU hashing effeciency  
 ![Screenshot 202...27 025131.png](https://ik.imagekit.io/MK1/Website/Screenshot%202025-04-27%20025131.png)  
 Or press S to view any shares you have accpeted form the pool  
-![]()  
+ 
 You can use these commands for specific actions  
 ![Screenshot 202...27 025441.png](https://ik.imagekit.io/MK1/Website/Screenshot%202025-04-27%20025441.png)  
 For additional information on your shares, go to [this website](https://moneroocean.stream/) and enter your wallet address  
